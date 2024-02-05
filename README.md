@@ -1,6 +1,6 @@
 Hello I'm Tuğba <br>
 Technologies I used while developing this project: Next Js , Typescript and Tailwind <br>
-You can review the project [Here](https://amadeus-case-flight.vercel.app/FindFlight).
+You can review the project [Here](https://amadeus-case-flight.vercel.app).
 
 About the project ;
 - If you choose Departure Airport: Mumbai , Arrival Airport: New Delhi options while filling out the ticket form, you will see more tickets. This is just a recommendation. You can choose the option you want.
