@@ -14,6 +14,8 @@ About the project ;
 ![Ekran Görüntüsü (862)](https://github.com/Tugbagundogdu/amadeus-case/assets/78304413/3d44e377-0290-4fdf-8951-b79c26f367a1)  <br>
 ![Ekran Görüntüsü (863)](https://github.com/Tugbagundogdu/amadeus-case/assets/78304413/5ee391a9-2df7-4b96-b017-1e50b92566b0)  <br>
 ![Ekran Görüntüsü (864)](https://github.com/Tugbagundogdu/amadeus-case/assets/78304413/622e4614-3557-487d-9b70-9c414d0bb954)  <br>
+![Ekran Görüntüsü (865)](https://github.com/Tugbagundogdu/amadeus-case/assets/78304413/3c8b317c-f01c-48a7-af3e-428a5be75b31)
+
 
 
 
