@@ -3,13 +3,7 @@ import React from 'react'
 import Flight from '../../../api/flight.json';
 import Image from 'next/image';
 import Photo from '../../assets/Flight Booking-cuate.svg';
-import { useParams, useSearchParams } from 'next/navigation';
-
-export const metadata = {
-  title: "Find Flight | Flyinn Amadeus",
-  description: "Discover the most affordable airplane tickets on a reliable platform. Explore personalized flights from among hundreds of airline options",
-};
-
+import { useParams } from 'next/navigation';
 
 const page: React.FC<any> = () => {
 
